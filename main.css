@@ -19,6 +19,5 @@
 .quote--featured {
   border: #ff4213;
   background: #ff9f87;
-  grid-column-start: 1;
-  grid-column-end: span 2;
+  grid-column: span 2;
 }
